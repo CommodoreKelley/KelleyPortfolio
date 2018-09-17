@@ -9,3 +9,7 @@ section#preview{
   display: grid;
   grid-template-columns: 1fr 1fr;
 }
+img#profile {
+  width: 25vw;
+  height: 25vw;
+}
