@@ -7,5 +7,5 @@ section#about{
 }
 section#preview{
   display: grid;
-  grid-template-columns: 1fr 1fr:
+  grid-template-columns: 1fr 1fr;
 }
