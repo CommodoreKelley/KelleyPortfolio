@@ -14,3 +14,28 @@ img#profile {
   width: 25vw;
   height: 25vw;
 }
+/*Creates flexbox menu*/
+ul#site-nav-a{
+  list-style: none;
+  display: flex;
+  padding: .5em;
+}
+ul#site-nav-a > li{
+  /*Sets all elements in a straight line*/
+  margin-top: 0;
+  /*creates maroon border*/
+  border-radius: .2em;
+}
+ul#site-nav-a > li > a{
+  /*Makes lining block level*/
+      display: block;
+      /*add padding in links*/
+      padding: .5em 1em;
+      background-color: #cc6b5a;
+      color: white;
+      text-decoration: none;
+}
+ul#site-nav-a > li + li{
+  /*Spaces out links*/
+  margin-left: 1.5em;
+}
