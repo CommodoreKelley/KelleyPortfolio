@@ -23,7 +23,7 @@ ul#site-nav-a{
 ul#site-nav-a > li{
   /*Sets all elements in a straight line*/
   margin-top: 0;
-  /*creates maroon border*/
+  /*creates border*/
   border-radius: .2em;
 }
 ul#site-nav-a > li > a{
@@ -31,11 +31,83 @@ ul#site-nav-a > li > a{
       display: block;
       /*add padding in links*/
       padding: .5em 1em;
-      background-color: #cc6b5a;
+      background-color: #E82C0C;
       color: white;
       text-decoration: none;
 }
 ul#site-nav-a > li + li{
+  /*Spaces out links*/
+  margin-left: 1.5em;
+}
+ul#site-nav-b{
+  list-style: none;
+  display: flex;
+  padding: .5em;
+}
+ul#site-nav-b > li{
+  /*Sets all elements in a straight line*/
+  margin-top: 0;
+  /*creates border*/
+  border-radius: .2em;
+}
+ul#site-nav-b > li > a{
+  /*Makes lining block level*/
+      display: block;
+      /*add padding in links*/
+      padding: .5em 1em;
+      background-color: #E82C0C;
+      color: white;
+      text-decoration: none;
+}
+ul#site-nav-b > li + li{
+  /*Spaces out links*/
+  margin-left: 1.5em;
+}
+ul#site-nav-c{
+  list-style: none;
+  display: flex;
+  padding: .5em;
+}
+ul#site-nav-c > li{
+  /*Sets all elements in a straight line*/
+  margin-top: 0;
+  /*creates border*/
+  border-radius: .2em;
+}
+ul#site-nav-c > li > a{
+  /*Makes lining block level*/
+      display: block;
+      /*add padding in links*/
+      padding: .5em 1em;
+      background-color: #E82C0C;
+      color: white;
+      text-decoration: none;
+}
+ul#site-nav-c > li + li{
+  /*Spaces out links*/
+  margin-left: 1.5em;
+}
+ul#site-nav-d{
+  list-style: none;
+  display: flex;
+  padding: .5em;
+}
+ul#site-nav-d > li{
+  /*Sets all elements in a straight line*/
+  margin-top: 0;
+  /*creates border*/
+  border-radius: .2em;
+}
+ul#site-nav-d > li > a{
+  /*Makes lining block level*/
+      display: block;
+      /*add padding in links*/
+      padding: .5em 1em;
+      background-color: #E82C0C;
+      color: white;
+      text-decoration: none;
+}
+ul#site-nav-d > li + li{
   /*Spaces out links*/
   margin-left: 1.5em;
 }
