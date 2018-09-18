@@ -30,6 +30,10 @@ img#profile {
   width: 20vw;
   height: 20vw;
 }
+img#vtlogo {
+  width: 20vw;
+  height: 20vw;
+}
 /*Creates flexbox menu*/
 ul#site-nav-a{
   list-style: none;
