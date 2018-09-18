@@ -31,20 +31,20 @@ img#profile {
   height: 20vw;
 }
 img#vtlogo {
-  width: 20vw;
-  height: 20vw;
+  width: 15vw;
+  height: 15vw;
 }
 img#catan {
-  width: 20vw;
-  height: 20vw;
+  width: 15vw;
+  height: 15vw;
 }
 img#paper {
-  width: 20vw;
-  height: 20vw;
+  width: 15vw;
+  height: 15vw;
 }
 img#sample {
-  width: 20vw;
-  height: 20vw;
+  width: 15vw;
+  height: 15vw;
 }
 /*Creates flexbox menu*/
 ul#site-nav-a{
