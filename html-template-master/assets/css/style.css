@@ -1,3 +1,6 @@
+body{
+  background-color: #E6DB98;
+}
 html {
   font-size: 30px;
 }
@@ -44,7 +47,7 @@ ul#site-nav-a > li > a{
       display: block;
       /*add padding in links*/
       padding: .5em 1em;
-      background-color: #E82C0C;
+      background-color: #09AAB2;
       color: white;
       text-decoration: none;
 }
@@ -68,7 +71,7 @@ ul#site-nav-b > li > a{
       display: block;
       /*add padding in links*/
       padding: .5em 1em;
-      background-color: #E82C0C;
+      background-color: #09AAB2;
       color: white;
       text-decoration: none;
 }
@@ -92,7 +95,7 @@ ul#site-nav-c > li > a{
       display: block;
       /*add padding in links*/
       padding: .5em 1em;
-      background-color: #E82C0C;
+      background-color: #09AAB2;
       color: white;
       text-decoration: none;
 }
@@ -116,7 +119,7 @@ ul#site-nav-d > li > a{
       display: block;
       /*add padding in links*/
       padding: .5em 1em;
-      background-color: #E82C0C;
+      background-color: #09AAB2;
       color: white;
       text-decoration: none;
 }
