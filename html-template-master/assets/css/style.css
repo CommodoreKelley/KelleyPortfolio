@@ -34,6 +34,18 @@ img#vtlogo {
   width: 20vw;
   height: 20vw;
 }
+img#catan {
+  width: 20vw;
+  height: 20vw;
+}
+img#paper {
+  width: 20vw;
+  height: 20vw;
+}
+img#sample {
+  width: 20vw;
+  height: 20vw;
+}
 /*Creates flexbox menu*/
 ul#site-nav-a{
   list-style: none;
