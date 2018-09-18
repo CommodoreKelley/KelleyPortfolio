@@ -18,6 +18,10 @@ section#preview{
   display: grid;
   grid-template-columns: 1fr 1fr;
 }
+section#work {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
 img#profile {
   /*the vw unit makes a picure have size relative to the screen*/
   width: 20vw;
