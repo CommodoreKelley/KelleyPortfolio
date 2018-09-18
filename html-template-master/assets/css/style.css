@@ -1,6 +1,15 @@
 html {
   font-size: 30px;
 }
+p#contact {
+  font-size: 20px;
+}
+p#email {
+  font-size: 20px;
+}
+p#phone {
+  font-size: 20px;
+}
 section#about{
   display: grid;
   grid-template-columns: 1fr 2fr;
@@ -11,8 +20,8 @@ section#preview{
 }
 img#profile {
   /*the vw unit makes a picure have size relative to the screen*/
-  width: 25vw;
-  height: 25vw;
+  width: 20vw;
+  height: 20vw;
 }
 /*Creates flexbox menu*/
 ul#site-nav-a{
