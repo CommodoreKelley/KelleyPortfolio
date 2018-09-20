@@ -16,6 +16,7 @@ p#phone {
 section#about{
   display: grid;
   grid-template-columns: 1fr 2fr;
+  grid-gap: 40px;
 }
 section#preview{
   display: grid;
@@ -27,8 +28,7 @@ section#work {
 }
 img#profile {
   /*the vw unit makes a picure have size relative to the screen*/
-  width: 20vw;
-  height: 20vw;
+  width: 100%;
 }
 img#vtlogo {
   width: 15vw;
